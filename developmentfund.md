@@ -20,7 +20,7 @@
 
 2.4. The Development Fund may be spent in line with 3. subject to condition 2.1..
 
-2.5. The Development Fund shall be classed as low-on-funds either when the current balence is less than the minimum amount + 2 times the maximum amount for a development fund bid application, or if the SSAGO Exec have reasons to deem it to be so.
+2.5. The Development Fund shall be classed as low-on-funds either when the current balence is less than 2 times the maximum bid amount specified in 4.3 plus the minimum fund amount specified in 2.1, or if the SSAGO Exec have reasons to deem it to be so.
 
 2.6. The Development Fund shall not exceed £7,500 and at such a point the SSAGO Exec should consult the Representative Committee about future plans for the money.
 
